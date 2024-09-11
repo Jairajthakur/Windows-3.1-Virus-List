@@ -5,3 +5,9 @@
 |Virus Name|Description|
 |----------|-----------|
 |Ada	|
+|Adolph |
+|AIDS |
+|Ha Ha Ha trojan	|
+|Taunt |
+|AIDS II	|
+|AIDS Information	|
