@@ -21,5 +21,6 @@
 |Amoeba 2	|
 |Amstrad |
 |Amstrad 740	|
+|Anarkia	|
 
 
