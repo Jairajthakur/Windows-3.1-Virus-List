@@ -22,5 +22,6 @@
 |Amstrad |
 |Amstrad 740	|
 |Anarkia	|
+|Anti-D	|
 
 
