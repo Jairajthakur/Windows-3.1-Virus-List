@@ -30,6 +30,7 @@
 |Invader	|
 |Anticad BT	|
 |Anticrst	|
+|Anthra |
 
 
 
