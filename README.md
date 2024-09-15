@@ -42,5 +42,7 @@
 |April 1st C	|
 |April 1st D	|
 |SURIV A	|
-
+|Israeli virus	|
+|SURIV v3.00	|
+|Jerusalem D	|
 
