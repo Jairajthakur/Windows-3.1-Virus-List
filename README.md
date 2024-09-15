@@ -35,7 +35,10 @@
 |Anto	|
 |April 1st A	|
 |SURIV A	|
-
+|SURIV v1.00	|
+|SURIV v1.01i	|
+|TSR virus	|
+|April 1st B	|
 
 
 
