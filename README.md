@@ -39,6 +39,8 @@
 |SURIV v1.01i	|
 |TSR virus	|
 |April 1st B	|
-
+|April 1st C	|
+|April 1st D	|
+|SURIV A	|
 
 
