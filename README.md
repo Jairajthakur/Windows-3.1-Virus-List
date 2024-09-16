@@ -59,4 +59,7 @@
 |USSR 394	|
 |Backtime |	
 |Bad Boy |
-
+|Bad Boy 2	|
+|Bad Boy 2B	|
+|Bad Boy 2C |	
+|Bad Guy 1 |
