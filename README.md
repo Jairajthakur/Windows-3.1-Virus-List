@@ -63,3 +63,8 @@
 |Bad Boy 2B	|
 |Bad Boy 2C |	
 |Bad Guy 1 |
+|Bad Guy 2	|
+|Bad Taste 2	|
+|Basic	|
+|5120	|
+|Slayer |
