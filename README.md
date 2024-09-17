@@ -68,3 +68,16 @@
 |Basic	|
 |5120	|
 |Slayer |
+|Barcelona	|
+|Prudents	|
+|1210	|
+|Spanish 3	|
+|Barcelona 1	|
+|Base 463 |
+|Base 540	|
+|Base 575	|
+|Base 606	|
+|Be Ware	|
+|Beast	|
+|512	|
+|No. of The Beast 666 |
