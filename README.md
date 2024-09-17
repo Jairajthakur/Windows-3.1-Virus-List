@@ -81,3 +81,10 @@
 |Beast	|
 |512	|
 |No. of The Beast 666 |
+|Beast A	|
+|Beast B	|
+|Beast C	|
+|Beast D	|
+|Beast E	|
+|Beast F |
+
