@@ -87,4 +87,9 @@
 |Beast D	|
 |Beast E	|
 |Beast F |
+|Beast NBL	|
+|Beast	|
+|Beast Amstrad	|
+|OBebe	|
+|Beijing |
 
