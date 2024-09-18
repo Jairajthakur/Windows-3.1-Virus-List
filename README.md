@@ -98,3 +98,8 @@
 |Bichi	|
 |Big Joke	|
 |Big Italian |
+|Black Death |	
+|Necropolis	|
+|Black Jack	|
+|Black Jack 3	|
+|Black Jack 5 |
