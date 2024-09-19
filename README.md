@@ -103,3 +103,16 @@
 |Black Jack	|
 |Black Jack 3	|
 |Black Jack 5 |
+|Black jack 5B	|
+|Black Jack 6	|
+|Black Jack 7	|
+|Black jack 7B	|
+|Black Jack 8	|
+|Black Jack 9	|
+|Black Monday |
+|Black Wiz 2	|
+|Blood	|
+|Bloody	|
+|Bob	|
+|Boludo	|
+|Boot Dropper |
