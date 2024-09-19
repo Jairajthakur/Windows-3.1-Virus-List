@@ -127,3 +127,9 @@
 |405	|
 |Burger 1	|
 |Burger 2 |
+|Burger 3	|
+|Burghofer |	
+|Brainy	|
+|Cad Kill	|
+|Captain Trips	|
+|Carioca |
