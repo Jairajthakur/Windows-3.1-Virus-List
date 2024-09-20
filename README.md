@@ -150,3 +150,10 @@
 |Chemist6	|
 |Chemmy B |	
 |Choinca |
+|ChangoMangu	|
+|Christmas 1	|
+|XA1	|
+|Xmas	|
+|Christmas 2	|
+|Christmas Boot	|
+|Christmas Japan |
