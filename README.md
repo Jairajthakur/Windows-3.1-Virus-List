@@ -144,3 +144,9 @@
 |Caz C	|
 |CB 1530	|
 |Cemetery |
+|ChanguMangu	|
+|Chaos	|
+|Chemist	|
+|Chemist6	|
+|Chemmy B |	
+|Choinca |
