@@ -157,3 +157,9 @@
 |Christmas 2	|
 |Christmas Boot	|
 |Christmas Japan |
+|CIA	|
+|Burger	|
+|Cinder	|
+|Cinderella	|
+|CKsum 1	|
+|Cookie |
