@@ -163,3 +163,9 @@
 |Cinderella	|
 |CKsum 1	|
 |Cookie |
+|Copmpl	|
+|Copyright |
+|Cossiga	|
+|Cracker Jack |	
+|Crazy Eddie	|
+|Crazyimp |
