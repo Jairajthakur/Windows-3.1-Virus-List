@@ -175,3 +175,18 @@
 |Criminal |	
 |CSE-504	|
 |CSE-457 |
+|CSE Beta	
+|CSL	|
+|CSFR 1000	|
+|CZ	|
+|Dada	|
+|Damage A	|
+|DarckEvil |
+|Dark Avenger	|
+|Eddie 1	|
+|Bulgarian	|
+|City of Sophia |	
+|Black Avenger	|
+|Diana	|
+|Dark Avenger 2 |
+
