@@ -195,4 +195,10 @@
 |Darth Vader 1	|
 |Darth Vader 2	|
 |Darth Vader 3 |
-
+|DataCrime C |
+|DataCrime D	|
+|DataCrime IIb	|
+|DataCrime II |
+|DataLock |
+|Day10	|
+|DBASE |
