@@ -189,4 +189,10 @@
 |Black Avenger	|
 |Diana	|
 |Dark Avenger 2 |
+|Eddie 2 |	
+|Eddie 3	|
+|Dark Lord	|
+|Darth Vader 1	|
+|Darth Vader 2	|
+|Darth Vader 3 |
 
