@@ -216,4 +216,8 @@
 |Den-Zuk 2	|
 |Destructor |
 |Devil's Dance |
-|
+|Dewdz |	
+|Diamond	|
+|Diskcom	|
+|Disk Jeb |
+|Disk Killer |
