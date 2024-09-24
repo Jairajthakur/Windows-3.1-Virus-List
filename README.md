@@ -221,3 +221,8 @@
 |Diskcom	|
 |Disk Jeb |
 |Disk Killer |
+|Ogre	|
+|Disk Killer 2 |	
+|Disleia |	
+|DIR |	
+|DIR II |
