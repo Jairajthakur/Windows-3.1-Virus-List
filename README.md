@@ -226,3 +226,10 @@
 |Disleia |	
 |DIR |	
 |DIR II |
+|DM |	
+|Doctor |	
+|Dodo |	
+|Dodo Pig |	
+|Do nothing virus |	
+|640K |
+|Stupid virus |
