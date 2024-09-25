@@ -240,3 +240,9 @@
 |Akuku |	
 |Dropper 3 |	
 |Akuku 2 |
+|Drug	|
+|Dutch Tiny |	
+|Eddie Die |	
+|EDV	|
+|Eight Tunes |	
+|1971 |
