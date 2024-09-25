@@ -233,3 +233,10 @@
 |Do nothing virus |	
 |640K |
 |Stupid virus |
+|Doom II A |	
+|Doom II B |	
+|Dot killer |	
+|Dropper 2 |	
+|Akuku |	
+|Dropper 3 |	
+|Akuku 2 |
