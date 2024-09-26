@@ -252,3 +252,9 @@
 |Enigma B |	
 |Enigma 2 |	
 |Eric 1 |
+|ETC |	
+|Europe |	
+|Evil |	
+|Evil Empire |	
+|Eterminator |	
+|F-709 |
