@@ -258,3 +258,9 @@
 |Evil Empire |	
 |Eterminator |	
 |F-709 |
+|Faggot	|
+|Fake Vir |	
+|Fear |	
+|Feist |	
+|F-Word |	
+|F-Word 2 |
