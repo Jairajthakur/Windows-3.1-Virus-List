@@ -272,3 +272,9 @@
 |Fish |	
 |European Fish |	
 |Fish 6 |
+|Fingers |	
+|Flash	|
+|Flip Partition |	
+|Form |	
+|Formiche |	
+|France |
