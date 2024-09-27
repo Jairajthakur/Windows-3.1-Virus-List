@@ -278,3 +278,9 @@
 |Form |	
 |Formiche |	
 |France |
+|Freew-692 |	
+|Freeze |	
+|Frere Jacques	|
+|Friday COM 1 |
+|South Africa 1 |	
+|Virus-B |
