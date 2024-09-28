@@ -284,3 +284,20 @@
 |Friday COM 1 |
 |South Africa 1 |	
 |Virus-B |
+|Miami	|
+|Munich	|
+|Friday COM 2	|
+|South Africa 2 |	
+|Friday COM 3 |	
+|Friday 13th	|
+|Jerusalem B |	
+|PLO Virus	|
+|1808  1813 |
+|Israeli virus	|
+|Anarkia	|
+|Arab Star	|
+|Black Friday	|
+|Hebrew University |	
+|Mendoza	|
+|Friday Destructive Frog's Alley |	
+|AIDS R.2A |
