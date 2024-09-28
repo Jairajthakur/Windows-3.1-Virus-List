@@ -301,3 +301,14 @@
 |Mendoza	|
 |Friday Destructive Frog's Alley |	
 |AIDS R.2A |
+|STPII Laboratory	|
+|Fu-Manchu	|
+|Fumble 2 |	
+|Gergana	|
+|Gergana 1	|
+|Gergana 2	|
+|Gergana 3	|
+|Gergana 4	|
+|Gergana 5	|
+|Gergana 6	|
+|Ghost Boot |
