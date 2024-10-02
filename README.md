@@ -375,4 +375,14 @@
 |Horse 6	|
 |Horse 7	|
 |Horse 8 |
-
+|JHorse 9	|
+|Horse Boot	|
+|Hundred Years	|
+|Frodo	|
+|Century	|
+|Stealth	|
+|Hiding	|
+|4096 |	
+|IDF	|
+|Hungarian	|
+|Hybryd |
