@@ -368,5 +368,11 @@
 |Azusa	|
 |Horse	|
 |Horse 2 |
-|
+|Horse 2B	|
+|Horse 3	|
+|Horse 4	|
+|Horse 5	|
+|Horse 6	|
+|Horse 7	|
+|Horse 8 |
 
