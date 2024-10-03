@@ -386,3 +386,17 @@
 |IDF	|
 |Hungarian	|
 |Hybryd |
+|Hydra-0	|
+|Hydra-1	|
+|Hydra-2	|
+|Hydra-3	|
+|Hydra-4	|
+|Hydra-5	|
+|Hydra-6	|
+|Hydra-7	|
+|Hydra-8	|
+|Hymn	|
+|Icelandic	|
+|Disk Crunching	|
+|One in Ten	|
+|Icelandic 2 |
