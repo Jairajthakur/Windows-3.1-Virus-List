@@ -462,3 +462,18 @@
 |Kuku	|
 |Kuku 2	|
 |Kuzmitch |
+|Kylie	|
+|Falling Letters	|
+|Label	|
+|Lazy	|
+|LDV	|
+|Leech	|
+|Leech 2	|
+|Lehigh 1	|
+|Lehigh 2	|
+|Leprosy	|
+|News Flash	|
+|Leprosy B	|
+|Leprosy C	|
+|Leprosy D	|
+|Leprosy E	|
