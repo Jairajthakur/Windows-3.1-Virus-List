@@ -430,3 +430,35 @@
 |Jocker	|
 |Jojo 1	|
 |Jojo 2 |
+|Joker	|
+|Joker 2	|
+|Joshi	|
+|13-Jul	|
+|Justice	|
+|Kalaha	|
+|Kamasya	|
+|Kamikaze	|
+|Karin	|
+|KBug 1	|
+|KBug 2	|
+|Kemerovo |	
+|Kennedy	|
+|MKeypress 1 C |
+|Keypress 1 E	|
+|Zappo	|
+|Keypress 2	|
+|Keypress 3 C	|
+|Keypress 3 E	|
+|KHETAPUNK	|
+|Amoeba II	|
+|Kiev	|
+|Kiev1.1 |	
+|Killer |	
+|Kit	|
+|Klaeren	|
+|Korea	|
+|Kranz	|
+|Kukac	|
+|Kuku	|
+|Kuku 2	|
+|Kuzmitch |
