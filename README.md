@@ -477,3 +477,14 @@
 |Leprosy C	|
 |Leprosy D	|
 |Leprosy E	|
+|Leszop	|
+|Liberty	|
+|Liberty SSSS	|
+|Lisbon	|
+|Little Pieces	|
+|LitelBrother	|
+|Lozinsky	|
+|Lozinsky 1	|
+|Love Child	|
+|Love Trojan	|
+|Lucifer |
