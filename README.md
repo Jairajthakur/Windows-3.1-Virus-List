@@ -519,4 +519,22 @@
 |Mier 1 A	|
 |RMI1	|
 |Icelandic |
-
+|Mier 1 B	|
+|Mier 2	|
+|Moctezu 2	|
+|Moctezu 3	|
+|Mono	|
+|Monnequin	|
+|Monla	|
+|Monla B	|
+|Moskito Topo	|
+|Mosquito	|
+|Music bug	|
+|Mutant	|
+|Mute 123	|
+|MG 3	|
+|MG 500	|
+|MGTU	|
+|MGTU 2	|
+|MLTI	|
+|Red Diavolyata   MPS-OPC |
