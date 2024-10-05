@@ -488,3 +488,19 @@
 |Love Child	|
 |Love Trojan	|
 |Lucifer |
+|Lunch	|
+|Macabi	|
+|Macedoni	|
+|Machosoft	|
+|Magnitogorsk	|
+|Malaga	|
+|Malta	|
+|Manola	|
+|Manowar	|
+|Marauder	|
+|Mardi-Bros	|
+|Marl	|
+|0M Face	|
+|Michelangelo	|
+|Micro 128	|
+
