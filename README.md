@@ -538,3 +538,19 @@
 |MGTU 2	|
 |MLTI	|
 |Red Diavolyata   MPS-OPC |
+|MPS 1.1	|
+|MPS 3.1	|
+|MPS 3.2	|
+|MPS 3.1 B	|
+|Mummy	|
+|Murphy 1	|
+|Murphy 2	|
+|Murphy 3	|
+|5Murphy 4	|
+|Murphy 5	|
+|Super Hacker	|
+|1077	|
+|Mr. DODO. |	
+|MShark	|
+|MSTU |
+|Mystic 1 |
