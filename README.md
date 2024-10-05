@@ -503,4 +503,20 @@
 |0M Face	|
 |Michelangelo	|
 |Micro 128	|
+|Microbe 1 |	
+|Microbe 2	|
+|Microdot	|
+|Migram	|
+|Minimal	|
+|Minimal 1	|
+|Mirror	|
+|Mirror 1	|
+|Mirror 2	|
+|Mirror 3	|
+|MisSpeller	|
+|Typo Boot	|
+|Mistake	|
+|Mier 1 A	|
+|RMI1	|
+|Icelandic |
 
