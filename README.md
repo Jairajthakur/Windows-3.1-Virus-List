@@ -605,3 +605,16 @@
 |Music virus	|
 |Musician	|
 |Padded-A |
+|5Pandaflu |	
+|Parasit	|
+|Parasit 2	|
+|Parasit 2B	|
+|Paris	|
+|Parity	|
+|Parity 2	|
+|Pascal 1	|
+|Anti-Pascal 1	|
+|Pascal 2	|
+|Anti-Pascal 2	|
+|Pascal 400	|
+|Pascal 440 |
