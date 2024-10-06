@@ -618,3 +618,18 @@
 |Anti-Pascal 2	|
 |Pascal 400	|
 |Pascal 440 |
+|Pascal 480	|
+|Pascal 529	|
+|Pascal 605	|
+|Path	|
+|Pathhunt |	
+|Payday	|
+|PC-Bandit	|
+|Pcflu	|
+|Pcflu2	|
+|PcVrsDs	|
+|Peace	|
+|FellowShip |	
+|Peach COM	|
+|Peach EE	|
+|Pentagon |
