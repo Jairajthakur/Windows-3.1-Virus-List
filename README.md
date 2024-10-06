@@ -554,3 +554,54 @@
 |MShark	|
 |MSTU |
 |Mystic 1 |
+|Magic	|
+|Liberty	|
+|Mystic 2	|
+|Magic	|
+|Liberty	|
+|MZT-252	|
+|Nazi	|
+|New Com	|
+|New Doodle	|
+|New Jerusalem	|
+|New Pascal 1	|
+|New Pascal 2	|
+|New Tiny v1	|
+|New Tiny v2	|
+|New Vacsina	|
+|New Vienna	|
+|New Virus	|
+|Nice day Trojan	|
+|Nichols	|
+|Niemela 1	|
+|Nina	|
+|Nines	|
+|No Bock	|
+|NOINT	|
+|Nomen	|
+|Nomenclatura	|
+|17-Nov	|
+|WNothing	|
+|Nuke	|
+|Null Set	|
+|Number One	|
+|NV-71	|
+|#Ohio 1	|
+|Ohio 2 |
+|Ohio 3	|
+|Ohio 4	|
+|Ohio 5	|
+|Omega	|
+|Omicron	|
+|Omicron 2	|
+|Flip	|
+|Omicron 3	|
+|Omicron 4	|
+|Omicron 5	|
+|Omicron 6	|
+|Omicron Partition  Ontar	|
+|Ontario	|
+|Oropa	|
+|Music virus	|
+|Musician	|
+|Padded-A |
