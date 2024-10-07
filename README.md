@@ -633,3 +633,15 @@
 |Peach COM	|
 |Peach EE	|
 |Pentagon |
+|Perfume	|
+|Pest	|
+|Peterburg	|
+|529	|
+|Phantom	|
+|Phoeni	|
+|Phoeni 2000	|
+|Ping-Pong	|
+|Italian	|
+|Bouncing ball	|
+|Bouncing dot	|
+|Ping-Pong 286 |
