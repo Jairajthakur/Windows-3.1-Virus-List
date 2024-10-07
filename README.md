@@ -645,3 +645,21 @@
 |Bouncing ball	|
 |Bouncing dot	|
 |Ping-Pong 286 |
+|Pirate	|
+|Pil 3	|
+|Pil 4	|
+|Pil 5	|
+|Pil 7	|
+|Pil 8	|
+|Pil 9	|
+|Pil 10	|
+|Piel 1	|
+|Piel 2	|
+|Piel 3	|
+|Piel 283	|
+|Piel 847	|
+|Piel 852	|
+|Piel 936 |	
+|Plas 4C	|
+|Plastique 1	|
+|HM2 |
