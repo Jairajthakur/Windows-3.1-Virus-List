@@ -686,3 +686,12 @@
 |Pretoria	|
 |June 16th	|
 |Print Screen |
+|Proud	|
+|PSQR	|
+|Smile Again	|
+|QMU	|
+|Quiet	|
+|Rage	|
+|Rape 10	|
+|Rape 11	|
+|RaubKopie COM	|
