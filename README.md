@@ -695,3 +695,15 @@
 |Rape 10	|
 |Rape 11	|
 |RaubKopie COM	|
+|RaubKopie EE	|
+|Recovery 382	|
+|Red Cross	|
+|RED	|
+|Ambulance Car	|
+|Rocko	|
+|Rosen	|
+|Sadam	|
+|Profesor	|
+|Sadist |	
+|Sapta	|
+|Sara |
